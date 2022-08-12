@@ -16,22 +16,22 @@ It is a basic flutter ui for food delivery app like zomato.Map is also integrate
 
 <h5  align="center">1. Hoem screen</h5>
 <p align="center" >
-<img  src="https://github.com/ibrahimmohamed6767/images/blob/master/1.png" width="350"></img>
+<img  src="https://user-images.githubusercontent.com/79427962/184316659-d34a0ea4-c52f-4d80-bc99-3b0dbd1cba4e.png" width="350"></img>
 </p>
 <br>
 <h5  align="center">2. Order Screen </h5>
 <p align="center" >
-<img src="https://github.com/ibrahimmohamed6767/images/blob/master/2.png" width="350"></img>
+<img src="https://user-images.githubusercontent.com/79427962/184316867-830eee1d-c691-46d0-b4cd-0da19d1c06f7.png" width="350"></img>
 </p>
 <br>
 <h5  align="center" >3. Map Screen </h5>
 <p  align="center">
-<img src="https://github.com/ibrahimmohamed6767/images/blob/master/3.png" width="350"></img>
+<img src="https://user-images.githubusercontent.com/79427962/184316996-7ae1c073-f015-4ad1-93b3-a4c1a1973dcc.png" width="350"></img>
 </p>
 <br>
 <h5  align="center">4. Profile Screen</h5>
 <p  align="center">
-<img src="https://github.com/ibrahimmohamed6767/images/blob/master/4.png" width="350"></img>
+<img src="https://user-images.githubusercontent.com/79427962/184317108-a1aa1823-829d-4c26-9ce2-67f5df93bd79.png" width="350"></img>
 </p>
 
 ### To use this app follow below instructions-:
